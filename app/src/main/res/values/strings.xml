@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sale Here</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_goal">Goal</string>
+    <string name="title_achievement">Achievement</string>
+
+    <string name="btn_new_goal">+ New Goal</string>
+
+    <string name="what_your_goal">What your Goal</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="achievement">Achievement</string>
+    <string name="level">Level 2</string>
+    <string name="amount_thb">%s THB</string>
+    <string name="day_left">%s days left</string>
+    <string name="best_offer">Best Offer</string>
+    <string name="suggest_for_you">Suggest For You</string>
+    <string name="amount">Amount</string>
+    <string name="thb">THB</string>
+    <string name="thb_month">THB / Month</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_account">Select Account</string>
+</resources>
